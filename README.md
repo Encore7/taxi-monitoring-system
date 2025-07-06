@@ -1,6 +1,6 @@
-## Taxi Information and Monitoring Engine (TIME)
+## Real Time Taxi Monitoring Engine
 
-Welcome to the TIME Dashboard! This project provides real-time monitoring and analysis of a fleet of 10,000+ taxis, displaying and updating live data including average speed, current speed, location, and timestamps. As the dashboard is fed live data, the system is capable of notifying and storing information.  The dashboard is designed to help fleet managers and operators efficiently track and manage their vehicles.
+This project provides real-time monitoring and analysis of a fleet of 10,000+ taxis, displaying and updating live data including average speed, current speed, location, and timestamps. As the dashboard is fed live data, the system is capable of notifying and storing information.  The dashboard is designed to help fleet managers and operators efficiently track and manage their vehicles.
 
 ## Installation
 If you already have the necessary tools installed, you can skip step 1.
